@@ -1,0 +1,1 @@
+Toto je jednoduchá kuchařka, jejíž tvorba slouží k procvičení prvků HTML.
